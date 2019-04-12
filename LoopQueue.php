@@ -7,6 +7,8 @@
  * 
  * 扩展:
  * 1.取余的其他实际应用,本质是什么? 哈希函数,值域映射........
+ * https://www.zhihu.com/question/24706016  
+ * https://www.zhihu.com/question/30526656
  * 
 */
 
